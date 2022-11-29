@@ -1,0 +1,13 @@
+Mr_chef =list_of_order = ["yam", "pizza", "goat_meat", "ice_cream", "meat_Pie",]
+
+james_favourites = list_of_order.update["rice and bean", "hand buger", "yam"]
+
+print(input("Enter your order Mr james: "))
+
+if list_of_order != james_favourites:
+
+
+0
+
+
+
